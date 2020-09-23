@@ -1,4 +1,4 @@
 sudo add-apt-repository \
-   "deb [arch=amd64] https://download.docker.com/linux/debian \
-   $(lsb_release -cs) \
+   "deb [arch=arm64] https://download.docker.com/linux/debian \
+   buster \
    stable"
