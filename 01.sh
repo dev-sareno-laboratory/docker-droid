@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello World"
+sudo apt-get remove docker docker-engine docker.io containerd runc
